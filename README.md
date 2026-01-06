@@ -1,5 +1,7 @@
 ## Wiring Explanation (Step-by-Step)
 
+![EnviroGuard Hardware Setup](/HazardWatch img 01.jpg)
+
 EnviroGuard uses a **NodeMCU ESP8266**, which works at **3.3V logic**. All ground pins must be connected together to a common GND.
 
 ### Power Connections
